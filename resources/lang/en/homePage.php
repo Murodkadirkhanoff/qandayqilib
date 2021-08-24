@@ -1,0 +1,21 @@
+<?php
+return [
+    '1' => 'The best publications of the week',
+    '2' => 'New articles on Auto',
+    '3' => 'Trending topics',
+    '4' => 'View all categories',
+    '5' => 'Many are reading now',
+    '6' => 'Sponsored news',
+    '7' => 'Posts list',
+    '8' => 'No records',
+    '9' => 'Filtering result',
+    '10' => 'Filter',
+    '11' => 'Reset filter',
+    '12' => 'Categories',
+    '13' => 'Date',
+    '14' => 'Hot topics',
+    '15' => 'Recent Posts',
+    '16' => 'Categories',
+    '17' => 'Subcategories',
+    '18' => 'New articles on Sport',
+];
