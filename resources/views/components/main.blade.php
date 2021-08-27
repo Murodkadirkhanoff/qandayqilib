@@ -10,7 +10,6 @@
 
     <meta name="keywords" content="{{$keywords ?? 'qanday qilib'}}">
     <meta name="description" content="{{$description ?? 'qanday qilib'}}">
-    <link rel="canonical" href="{{url()->current()}}"/>
 
 
     <!-- Fonts -->
