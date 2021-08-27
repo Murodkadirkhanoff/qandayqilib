@@ -8,8 +8,8 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
-    <meta name="keywords" content="{{$keywords ?? 'qanday qilib'}}">
-    <meta name="description" content="{{$description ?? 'qanday qilib'}}">
+    <meta name="keywords" content="{{$keywords ?? 'qanday qilib qandayqilib qandayqilib.uz'}}">
+    <meta name="description" content="{{$description ?? 'qanday qilibdegan barcha savollaringizga javob oling'}}">
 
 
     <!-- Fonts -->
